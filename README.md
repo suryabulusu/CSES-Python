@@ -1,4 +1,4 @@
-# CSES_Python
+# CSES-Python
 Solutions to some CSES questions in Python
 
 CSES Problem Set : https://cses.fi/problemset
